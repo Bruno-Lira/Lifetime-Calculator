@@ -71,7 +71,7 @@ p {
     top: 15%;
     background-color: #468AFF;
     width: 90%;
-    height: 65%;
+    min-height: 65%;
     padding: 0.25vw;
     border-radius: 10vw;
     margin: auto;
