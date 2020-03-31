@@ -32,6 +32,11 @@ body {
     border-radius: 10vw;
 }
 
+a{
+    color: #FAAB00;
+    text-decoration: none;
+}
+
 p {
     color: white;
     font-size: 30px;
